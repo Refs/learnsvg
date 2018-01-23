@@ -1,22 +1,14 @@
 # Summary
-## 登陆网站
-* [前言](introduction.md)
-* [网站登录](loginIn.md)
-* [网站主页](home-function.md)
 
-## 新建电站
-* [建电站向导](new-st.md)
+## 走进svg（imooc）
+* [SVG入门](introduction.md)
+* [SVG中的坐标系统](coordinatedSystem.md)
+* [颜色渐变和线刷](colorShade.md)
+* [path高级教程](path.md)
+* [svg文本](svgLiteral.md) 
+* [图形引用|剪切和蒙板](layerMasking.md) 
+* [SVG动画](animation.md) 
+* [总结](conclusion.md) 
 
-## 后台功能介绍
-* [电站首页](st-home.md) 
-* [电站监控](st-control.md) 
-* [人员管理](st-user.md) 
-* [电站统计](st-statistics.md) 
-* [电站管理](st-manager.md) 
-* [电站地图](st-map.md) 
-* [电站故障](st-cash.md) 
-* [智能分析](st-analysis.md) 
-* [意见反馈](st-suggestion.md) 
-* [电站报表](st-table.md) 
 
 
