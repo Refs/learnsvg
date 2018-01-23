@@ -15,7 +15,7 @@
         }
     },
     "styles": {
-        "website": "/gitbook/assets/styles/website.css"
+     
     },
     "plugins": [
         "-sharing",
