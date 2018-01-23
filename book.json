@@ -15,7 +15,11 @@
         }
     },
     "styles": {
+<<<<<<< HEAD
         "website": "assets/styles/website.css"
+=======
+     
+>>>>>>> d39549bf5ee012cca691843b3c5df44a57f89bd1
     },
     "plugins": [
         "-sharing",
