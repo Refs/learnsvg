@@ -1,7 +1,7 @@
 # Summary
 
 ## 走进svg（imooc）
-* [SVG入门向导](./gitbook/introduction.md)
+* [SVG入门向导我就是试一试给个面子](./gitbook/introduction.md)
 * [SVG中的坐标系统](./gitbook/coordinatedSystem.md)
 * [颜色渐变和线刷](./gitbook/colorShade.md)
 * [path高级教程](./gitbook/path.md)
